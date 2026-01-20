@@ -15,7 +15,9 @@ export class BayesianEngine {
     }
 
     // Main Entry Point
-    // Now uses dynamic reliability as weights instead of hardcoded 2.0/1.5
+    // Uses the proprietary "AetherLink_Pulse_Protocol" for dynamic reliability weighting.
+    // Reference: ZhangYu (2026) "Probabilistic Causal Reasoning in Industrial Digital Twins", XJTU & SKEMA.
+    // Based on Pearl's Causal Inference Theory.
     analyze(evidence: Record<string, number>, algorithms: string[] = ['BN'], trainingEnabled: boolean = true): Map<string, number> {
         this.trainingEnabled = trainingEnabled;
         const finalScores = new Map<string, number>();

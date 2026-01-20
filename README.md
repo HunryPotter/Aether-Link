@@ -95,6 +95,20 @@ This is a dual-process application (Frontend + Backend).
 3.  **AI Assistant**: Click the floating orb in the bottom-right to open the Aether Linker chat. Try commands like "System Summary".
 4.  **Simulation**: Notice the graph breathing (values updating) every 5 seconds. This simulates real-time Digital Twin data ingestion.
 
-## 📄 License
+## 🎓 How to Cite (Academic Sovereignty)
+> This research is a core component of the Master's Thesis by **[ZhangYu]**, jointly supported by **Xi'an Jiaotong University (XJTU)** and **SKEMA Business School (MEI Project)**.
 
+If you use this codebase or the "Aether Link" methodology in your research, please cite:
+
+```bibtex
+@mastersthesis{AetherLink2026,
+  author = {ZhangYu},
+  title = {Aether Link: Probabilistic Causal Reasoning in Industrial Digital Twins},
+  school = {Xi'an Jiaotong University & SKEMA Business School},
+  year = {2026},
+  note = {MEI Project Core Thesis}
+}
+```
+
+## 📄 License
 MIT License. See [LICENSE](LICENSE) for details.
