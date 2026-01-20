@@ -6,7 +6,7 @@
       "description": "",
       "tags": [],
       "createdAt": "2026-01-07T01:26:45.147Z",
-      "updatedAt": "2026-01-09T10:03:42.658Z",
+      "updatedAt": "2026-01-20T11:42:01.331Z",
       "data": {
         "nodes": [
           {
@@ -17,7 +17,7 @@
             "type": "part",
             "context": "design",
             "beliefs": {
-              "working": 0.106
+              "working": 0.1
             },
             "position": {
               "x": -200,
@@ -40,7 +40,7 @@
             "type": "part",
             "context": "design",
             "beliefs": {
-              "working": 0.1
+              "working": 0.1015
             },
             "position": {
               "x": -400,
@@ -62,7 +62,7 @@
             "type": "part",
             "context": "design",
             "beliefs": {
-              "working": 0.102
+              "working": 0.1008
             },
             "position": {
               "x": -200,
@@ -84,7 +84,7 @@
             "type": "part",
             "context": "design",
             "beliefs": {
-              "working": 0.123
+              "working": 0.1001
             },
             "position": {
               "x": 0,
@@ -105,7 +105,7 @@
             "type": "part",
             "context": "design",
             "beliefs": {
-              "working": 0.1095
+              "working": 0.1
             },
             "position": {
               "x": -50,
@@ -126,7 +126,7 @@
             "type": "part",
             "context": "design",
             "beliefs": {
-              "working": 0.1025
+              "working": 0.1018
             },
             "position": {
               "x": -50,
@@ -148,7 +148,7 @@
             "type": "part",
             "context": "design",
             "beliefs": {
-              "working": 0.1096
+              "working": 0.1
             },
             "position": {
               "x": -450,
@@ -190,7 +190,7 @@
             "type": "part",
             "context": "design",
             "beliefs": {
-              "working": 0.1037
+              "working": 0.1105
             },
             "position": {
               "x": -50,
@@ -222,7 +222,7 @@
               "takt_time": "4h",
               "location": "Hamburg",
               "Progress": "100.0",
-              "Time": "2110.3"
+              "Time": "2327.9"
             }
           },
           {
@@ -243,7 +243,7 @@
               "machine": "Auto-Driller",
               "shift": "Day",
               "Progress": "100.0",
-              "Time": "2110.3"
+              "Time": "2327.9"
             }
           },
           {
@@ -263,7 +263,7 @@
             "tags": {
               "hazard": "Flammable",
               "Progress": "100.0",
-              "Time": "2110.3"
+              "Time": "2327.9"
             }
           },
           {
@@ -283,7 +283,7 @@
             "tags": {
               "rpm": "5000",
               "Progress": "100.0",
-              "Time": "2110.3"
+              "Time": "2327.9"
             }
           },
           {
@@ -303,7 +303,7 @@
             "tags": {
               "torque": "45Nm",
               "Progress": "100.0",
-              "Time": "2110.3"
+              "Time": "2327.9"
             }
           },
           {
@@ -314,7 +314,7 @@
             "type": "part",
             "context": "support",
             "beliefs": {
-              "working": 0.1008
+              "working": 0.1088
             },
             "position": {
               "x": 1200,
@@ -333,7 +333,7 @@
             "type": "part",
             "context": "support",
             "beliefs": {
-              "working": 0.1026
+              "working": 0.1
             },
             "position": {
               "x": 1100,
@@ -352,7 +352,7 @@
             "type": "part",
             "context": "support",
             "beliefs": {
-              "working": 0.1038
+              "working": 0.1017
             },
             "position": {
               "x": 1300,
@@ -371,7 +371,7 @@
             "type": "part",
             "context": "support",
             "beliefs": {
-              "working": 0.1015
+              "working": 0.1084
             },
             "position": {
               "x": 1050,
@@ -389,7 +389,7 @@
             "type": "part",
             "context": "support",
             "beliefs": {
-              "working": 0.1
+              "working": 0.1264
             },
             "position": {
               "x": 1300,
@@ -407,7 +407,7 @@
             "type": "part",
             "context": "support",
             "beliefs": {
-              "working": 0.1177
+              "working": 0.1126
             },
             "position": {
               "x": 1000,
@@ -426,7 +426,7 @@
             "type": "part",
             "context": "support",
             "beliefs": {
-              "working": 0.1155
+              "working": 0.1
             },
             "position": {
               "x": 1150,
@@ -445,7 +445,7 @@
             "type": "part",
             "context": "support",
             "beliefs": {
-              "working": 0.1026
+              "working": 0.1027
             },
             "position": {
               "x": 1150,
@@ -748,7 +748,7 @@
       "description": "",
       "tags": [],
       "createdAt": "2026-01-07T08:44:06.718Z",
-      "updatedAt": "2026-01-09T10:03:42.658Z",
+      "updatedAt": "2026-01-20T11:42:01.331Z",
       "data": {
         "nodes": [
           {
@@ -759,7 +759,7 @@
             "type": "part",
             "context": "design",
             "beliefs": {
-              "working": 0.1001
+              "working": 0.1046
             },
             "position": {
               "x": -200,
@@ -782,7 +782,7 @@
             "type": "part",
             "context": "design",
             "beliefs": {
-              "working": 0.1071
+              "working": 0.1388
             },
             "position": {
               "x": -400,
@@ -804,7 +804,7 @@
             "type": "part",
             "context": "design",
             "beliefs": {
-              "working": 0.1015
+              "working": 0.1046
             },
             "position": {
               "x": -200,
@@ -826,7 +826,7 @@
             "type": "part",
             "context": "design",
             "beliefs": {
-              "working": 0.1067
+              "working": 0.1025
             },
             "position": {
               "x": 0,
@@ -847,7 +847,7 @@
             "type": "part",
             "context": "design",
             "beliefs": {
-              "working": 0.1018
+              "working": 0.1454
             },
             "position": {
               "x": 0,
@@ -868,7 +868,7 @@
             "type": "part",
             "context": "design",
             "beliefs": {
-              "working": 0.1064
+              "working": 0.1054
             },
             "position": {
               "x": -50,
@@ -890,7 +890,7 @@
             "type": "part",
             "context": "design",
             "beliefs": {
-              "working": 0.1104
+              "working": 0.1
             },
             "position": {
               "x": -450,
@@ -911,7 +911,7 @@
             "type": "part",
             "context": "design",
             "beliefs": {
-              "working": 0.1086
+              "working": 0.1054
             },
             "position": {
               "x": -350,
@@ -932,7 +932,7 @@
             "type": "part",
             "context": "design",
             "beliefs": {
-              "working": 0.1039
+              "working": 0.1019
             },
             "position": {
               "x": -50,
@@ -964,7 +964,7 @@
               "takt_time": "4h",
               "location": "Hamburg",
               "Progress": "100.0",
-              "Time": "1422.5"
+              "Time": "1640.1"
             }
           },
           {
@@ -985,7 +985,7 @@
               "machine": "Auto-Driller",
               "shift": "Day",
               "Progress": "100.0",
-              "Time": "1422.5"
+              "Time": "1640.1"
             }
           },
           {
@@ -1005,7 +1005,7 @@
             "tags": {
               "hazard": "Flammable",
               "Progress": "100.0",
-              "Time": "1422.5"
+              "Time": "1640.1"
             }
           },
           {
@@ -1025,7 +1025,7 @@
             "tags": {
               "rpm": "5000",
               "Progress": "100.0",
-              "Time": "1422.5"
+              "Time": "1640.1"
             }
           },
           {
@@ -1045,7 +1045,7 @@
             "tags": {
               "torque": "45Nm",
               "Progress": "100.0",
-              "Time": "1422.5"
+              "Time": "1640.1"
             }
           },
           {
@@ -1056,7 +1056,7 @@
             "type": "part",
             "context": "support",
             "beliefs": {
-              "working": 0.1
+              "working": 0.1083
             },
             "position": {
               "x": 1200,
@@ -1075,7 +1075,7 @@
             "type": "part",
             "context": "support",
             "beliefs": {
-              "working": 0.1006
+              "working": 0.1042
             },
             "position": {
               "x": 1100,
@@ -1094,7 +1094,7 @@
             "type": "part",
             "context": "support",
             "beliefs": {
-              "working": 0.1001
+              "working": 0.1
             },
             "position": {
               "x": 1300,
@@ -1113,7 +1113,7 @@
             "type": "part",
             "context": "support",
             "beliefs": {
-              "working": 0.1145
+              "working": 0.1024
             },
             "position": {
               "x": 1050,
@@ -1131,7 +1131,7 @@
             "type": "part",
             "context": "support",
             "beliefs": {
-              "working": 0.1044
+              "working": 0.1056
             },
             "position": {
               "x": 1300,
@@ -1149,7 +1149,7 @@
             "type": "part",
             "context": "support",
             "beliefs": {
-              "working": 0.1
+              "working": 0.122
             },
             "position": {
               "x": 1000,
@@ -1168,7 +1168,7 @@
             "type": "part",
             "context": "support",
             "beliefs": {
-              "working": 0.1
+              "working": 0.112
             },
             "position": {
               "x": 1150,
@@ -1187,7 +1187,7 @@
             "type": "part",
             "context": "support",
             "beliefs": {
-              "working": 0.1112
+              "working": 0.1028
             },
             "position": {
               "x": 1150,
@@ -1214,7 +1214,7 @@
             },
             "tags": {
               "Progress": "100.0",
-              "Time": "1422.5"
+              "Time": "1640.1"
             }
           }
         ],
@@ -1542,7 +1542,7 @@
       "description": "",
       "tags": [],
       "createdAt": "2026-01-07T09:01:35.062Z",
-      "updatedAt": "2026-01-09T10:03:42.658Z",
+      "updatedAt": "2026-01-20T11:42:01.331Z",
       "data": {
         "nodes": [
           {
@@ -1553,7 +1553,7 @@
             "type": "part",
             "context": "design",
             "beliefs": {
-              "working": 0.1111
+              "working": 0.103
             },
             "position": {
               "x": 80,
@@ -1582,7 +1582,7 @@
               "y": 260
             },
             "beliefs": {
-              "working": 0.1138
+              "working": 0.1107
             },
             "customAttributes": {
               "adj": {
@@ -1611,7 +1611,7 @@
               "y": 260
             },
             "beliefs": {
-              "working": 0.1
+              "working": 0.1163
             },
             "customAttributes": {
               "vb": {
@@ -1636,7 +1636,7 @@
               "y": 440
             },
             "beliefs": {
-              "working": 0.1013
+              "working": 0.1124
             },
             "customAttributes": {
               "寿命": {
@@ -1661,7 +1661,7 @@
               "y": 420
             },
             "beliefs": {
-              "working": 0.1
+              "working": 0.1015
             },
             "customAttributes": {
               "XCV": {
@@ -1686,7 +1686,7 @@
               "y": 410
             },
             "beliefs": {
-              "working": 0.1073
+              "working": 0.105
             },
             "customAttributes": {
               "CVB": {
@@ -1736,7 +1736,7 @@
               "y": 620
             },
             "beliefs": {
-              "working": 0.1037
+              "working": 0.1067
             },
             "customAttributes": {
               "VVBN": {
@@ -1761,7 +1761,7 @@
               "y": 640
             },
             "beliefs": {
-              "working": 0.1
+              "working": 0.116
             },
             "customAttributes": {
               "445": {
@@ -1786,7 +1786,7 @@
               "y": 640
             },
             "beliefs": {
-              "working": 0.106
+              "working": 0.1116
             },
             "customAttributes": {
               "审批01": {
@@ -1811,7 +1811,7 @@
               "y": 660
             },
             "beliefs": {
-              "working": 0.1038
+              "working": 0.1084
             }
           },
           {
@@ -1855,7 +1855,7 @@
               "y": 900
             },
             "beliefs": {
-              "working": 0.1084
+              "working": 0.1
             },
             "customAttributes": {
               "有效性": {
@@ -1880,7 +1880,7 @@
               "y": 900
             },
             "beliefs": {
-              "working": 0.1042
+              "working": 0.1
             },
             "customAttributes": {
               "2D34": {
@@ -1909,7 +1909,7 @@
               "y": 900
             },
             "beliefs": {
-              "working": 0.1186
+              "working": 0.1
             },
             "customAttributes": {
               "2323": {
@@ -1930,7 +1930,7 @@
               "y": 900
             },
             "beliefs": {
-              "working": 0.1076
+              "working": 0.1097
             },
             "customAttributes": {
               "23": {
@@ -1955,7 +1955,7 @@
               "y": 1140
             },
             "beliefs": {
-              "working": 0.122
+              "working": 0.1
             },
             "customAttributes": {
               "223": {
@@ -1980,7 +1980,7 @@
               "y": 900
             },
             "beliefs": {
-              "working": 0.1
+              "working": 0.1051
             },
             "customAttributes": {
               "334": {
@@ -2005,7 +2005,7 @@
               "y": 1220
             },
             "beliefs": {
-              "working": 0.1
+              "working": 0.1021
             },
             "customAttributes": {
               "DDD": {
@@ -2413,7 +2413,7 @@
       "description": "",
       "tags": [],
       "createdAt": "2026-01-09T03:06:04.559Z",
-      "updatedAt": "2026-01-09T10:03:42.658Z",
+      "updatedAt": "2026-01-20T11:42:01.331Z",
       "data": {
         "nodes": [
           {
@@ -2424,7 +2424,7 @@
             "type": "part",
             "context": "design",
             "beliefs": {
-              "working": 0.1079
+              "working": 0.1017
             },
             "position": {
               "x": 80,
@@ -2462,7 +2462,7 @@
               "y": 260
             },
             "beliefs": {
-              "working": 0.1121
+              "working": 0.102
             },
             "customAttributes": {
               "adj": {
@@ -2500,7 +2500,7 @@
               "y": 260
             },
             "beliefs": {
-              "working": 0.1038
+              "working": 0.1
             },
             "customAttributes": {
               "vb": {
@@ -2534,7 +2534,7 @@
               "y": 440
             },
             "beliefs": {
-              "working": 0.1221
+              "working": 0.1
             },
             "customAttributes": {
               "寿命": {
@@ -2568,7 +2568,7 @@
               "y": 70
             },
             "beliefs": {
-              "working": 0.1047
+              "working": 0.1063
             },
             "customAttributes": {
               "XCV": {
@@ -2603,7 +2603,7 @@
               "y": 60
             },
             "beliefs": {
-              "working": 0.1073
+              "working": 0.1
             },
             "customAttributes": {
               "CVB": {
@@ -2638,7 +2638,7 @@
               "y": 400
             },
             "beliefs": {
-              "working": 0.1056
+              "working": 0.1034
             },
             "customAttributes": {
               "tty": {
@@ -2672,7 +2672,7 @@
               "y": 620
             },
             "beliefs": {
-              "working": 0.103
+              "working": 0.1059
             },
             "customAttributes": {
               "VVBN": {
@@ -2706,7 +2706,7 @@
               "y": 640
             },
             "beliefs": {
-              "working": 0.1
+              "working": 0.1218
             },
             "customAttributes": {
               "445": {
@@ -2740,7 +2740,7 @@
               "y": 290
             },
             "beliefs": {
-              "working": 0.1109
+              "working": 0.1097
             },
             "customAttributes": {
               "审批01": {
@@ -2775,7 +2775,7 @@
               "y": 310
             },
             "beliefs": {
-              "working": 0.1175
+              "working": 0.1009
             },
             "history": {
               "confidence": [
@@ -2800,7 +2800,7 @@
               "y": 660
             },
             "beliefs": {
-              "working": 0.1038
+              "working": 0.1
             },
             "customAttributes": {
               "BB": {
@@ -2838,7 +2838,7 @@
               "y": 550
             },
             "beliefs": {
-              "working": 0.116
+              "working": 0.1028
             },
             "customAttributes": {
               "有效性": {
@@ -2873,7 +2873,7 @@
               "y": 900
             },
             "beliefs": {
-              "working": 0.1115
+              "working": 0.1
             },
             "customAttributes": {
               "2D34": {
@@ -2911,7 +2911,7 @@
               "y": 900
             },
             "beliefs": {
-              "working": 0.1047
+              "working": 0.1116
             },
             "customAttributes": {
               "2323": {
@@ -2941,7 +2941,7 @@
               "y": 900
             },
             "beliefs": {
-              "working": 0.1011
+              "working": 0.1025
             },
             "customAttributes": {
               "23": {
@@ -2975,7 +2975,7 @@
               "y": 1140
             },
             "beliefs": {
-              "working": 0.1
+              "working": 0.1247
             },
             "customAttributes": {
               "223": {
@@ -3009,7 +3009,7 @@
               "y": 900
             },
             "beliefs": {
-              "working": 0.1073
+              "working": 0.1025
             },
             "customAttributes": {
               "334": {
@@ -3466,7 +3466,7 @@
       "description": "",
       "tags": [],
       "createdAt": "2026-01-09T08:28:28.168Z",
-      "updatedAt": "2026-01-09T10:03:42.658Z",
+      "updatedAt": "2026-01-20T11:42:01.331Z",
       "data": {
         "nodes": [
           {
@@ -3477,7 +3477,7 @@
             "type": "part",
             "context": "design",
             "beliefs": {
-              "working": 0.126
+              "working": 0.105
             },
             "position": {
               "x": 80,
@@ -3549,7 +3549,7 @@
               "y": 260
             },
             "beliefs": {
-              "working": 0.1006
+              "working": 0.1026
             },
             "customAttributes": {
               "adj": {
@@ -3627,7 +3627,7 @@
               "y": 260
             },
             "beliefs": {
-              "working": 0.107
+              "working": 0.1111
             },
             "customAttributes": {
               "vb": {
@@ -3705,7 +3705,7 @@
               "y": 440
             },
             "beliefs": {
-              "working": 0.1159
+              "working": 0.1157
             },
             "customAttributes": {
               "寿命": {
@@ -3775,7 +3775,7 @@
               "y": 420
             },
             "beliefs": {
-              "working": 0.1061
+              "working": 0.1
             },
             "customAttributes": {
               "XCV": {
@@ -3847,7 +3847,7 @@
               "y": 410
             },
             "beliefs": {
-              "working": 0.1116
+              "working": 0.1309
             },
             "customAttributes": {
               "CVB": {
@@ -3917,7 +3917,7 @@
               "y": 420
             },
             "beliefs": {
-              "working": 0.1017
+              "working": 0.1
             },
             "customAttributes": {
               "tty": {
@@ -3989,7 +3989,7 @@
               "y": 620
             },
             "beliefs": {
-              "working": 0.1014
+              "working": 0.1024
             },
             "customAttributes": {
               "VVBN": {
@@ -4061,7 +4061,7 @@
               "y": 640
             },
             "beliefs": {
-              "working": 0.1037
+              "working": 0.1239
             },
             "customAttributes": {
               "445": {
@@ -4133,7 +4133,7 @@
               "y": 640
             },
             "beliefs": {
-              "working": 0.1161
+              "working": 0.1059
             },
             "customAttributes": {
               "审批01": {
@@ -4213,7 +4213,7 @@
               "y": 660
             },
             "beliefs": {
-              "working": 0.1119
+              "working": 0.1052
             },
             "history": {
               "confidence": [
@@ -4351,7 +4351,7 @@
               "y": 900
             },
             "beliefs": {
-              "working": 0.1025
+              "working": 0.1031
             },
             "customAttributes": {
               "有效性": {
@@ -4423,7 +4423,7 @@
               "y": 900
             },
             "beliefs": {
-              "working": 0.1051
+              "working": 0.1164
             },
             "customAttributes": {
               "2D34": {
@@ -4497,7 +4497,7 @@
               "y": 900
             },
             "beliefs": {
-              "working": 0.1
+              "working": 0.1041
             },
             "customAttributes": {
               "2323": {
@@ -4561,7 +4561,7 @@
               "y": 900
             },
             "beliefs": {
-              "working": 0.1119
+              "working": 0.1227
             },
             "customAttributes": {
               "23": {
@@ -4631,7 +4631,7 @@
               "y": 1140
             },
             "beliefs": {
-              "working": 0.1006
+              "working": 0.1233
             },
             "customAttributes": {
               "223": {
@@ -4701,7 +4701,7 @@
               "y": 900
             },
             "beliefs": {
-              "working": 0.1036
+              "working": 0.1035
             },
             "customAttributes": {
               "334": {
@@ -4773,7 +4773,7 @@
               "y": 1220
             },
             "beliefs": {
-              "working": 0.1032
+              "working": 0.1
             },
             "customAttributes": {
               "DDD": {
