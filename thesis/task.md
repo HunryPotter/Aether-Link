@@ -1,0 +1,28 @@
+# Aether Link Thesis & Code Plan
+
+- [ ] Research Aether Link Architecture & Theory <!-- id: 0 -->
+    - [x] Read READMEs and Product Description
+    - [ ] Analyze codebase structure for "Algorithm and Layered Recursive Calculation"
+- [x] Create Thesis Structure (`thesis_structure.md`) <!-- id: 1 -->
+    - [x] Draft Introduction (Background, Problem Statement)
+    - [x] Draft Theoretical Framework (Aether Link concepts)
+    - [x] Draft Methodology (Architecture, Algorithms)
+    - [x] Draft Implementation & Evaluation
+    - [x] Draft Future Work (PhD direction: Layered Recursive Calculation)
+- [x] Generate Code File (`TopologicalComputation.py` or similar) <!-- id: 2 -->
+    - [x] Design class structure for Aether Link nodes/spaces
+    - [x] Implement skeleton for "Layered Recursive Calculation"
+    - [x] Add comments mapping code to thesis attributes
+- [x] Review and Refine <!-- id: 3 -->
+
+# System Evolution (2026-2027 Timeline) - See [WBS](wbs.md)
+- [/] **Phase 1: Crystallization (Jan-Jun 2026)** (Design "Discrete Node Packaging") <!-- id: 4 -->
+    - [x] **WP-00: Foundation Hardening** (The Roguelike Run 1)
+        - [x] 0.1 TS Type Audit (BayesianEngine & GraphModel)
+        - [x] 0.2 Performance Baseline (FPS Check - Geometry Reused)
+    - [ ] Design the "Process Block" data structure (Schema)
+    - [ ] Plan the UI for selecting and "packaging" nodes
+- [ ] **Phase 2: Recursion** (Deepening the algorithm) <!-- id: 5 -->
+    - [ ] Update `layered_recursive_calculation.py` to support nested "Block" objects
+- [x] **Phase 3: Universality** (The C++ Vision) <!-- id: 6 -->
+- [x] **Phase 4: Pantheon** (The Universal Low-Code Platform) <!-- id: 7 -->

@@ -1,0 +1,62 @@
+# Aether Link: Technical Evolution Roadmap (2026-2027)
+
+> **Vision**: To evolve Aether Link from a digital twin MVP into **"Pantheon"** — a Universal Low-Code Platform built upon the "C++ of Systems." It will be an omnipotent engine capable of recursively modeling and executing the logic of any complex system.
+>
+> **Project Governance**:
+> *   **Current State (2026)**: work environment MVP (Aether Link).
+> *   **Future State (2027+)**: Personal Research for **MEI Master's Thesis** (Xi'an Jiaotong & SKEMA). All subsequent code iterations and the "Pantheon" evolution will be conducted in a private environment.
+
+## Phase 1: The Crystallization of Process (Jan 2026 - Jun 2026)
+**Goal**: Move from discrete, scattered nodes to "Packaged Flows" (Solidifying the Foundation).
+*Associated WBS: WP-01, WP-02, WP-03*
+
+- [ ] **Feature: Discrete Node Packaging (Process Encapsulation)**
+    - Ability to select a cluster of nodes (e.g., specific raw materials + machining steps) and "compile" them into a single **Process Block**.
+    - This Process Block exposes strict Inputs/Outputs and Probability Interfaces, hiding internal complexity (Abstraction).
+    - **AI Optimization**: By referencing a single "Block" ID instead of 100+ raw nodes, we drastically reduce the LLM context window usage, enabling "Precise Process Positioning" with minimal compute cost.
+- [ ] **Algorithm: Local Recursion**
+    - Implement the "Layered Recursive Calculation" within these individual blocks first.
+    - Verify that a Block behaves deterministically based on its internal probabilistic logic.
+- [ ] **Artifact**: `ProcessDefinition.schema` (Standardizing the storage format of a "Flow").
+
+## Phase 2: The Recursive Deepening (Jul 2026 - Dec 2026)
+**Goal**: Achieve true Multi-Level Recursion. **Milestone: Thesis Proposal (Late 2026)**.
+*Associated WBS: WP-04, WP-05, WP-06*
+
+- [ ] **Feature: Deep Nesting Support**
+    - 3D Visualization of "drilling down" into a node (Zoom-in reveals the internal graph).
+    - System handles N-depth recursion without performance degradation (Quantum Lock optimization).
+- [ ] **Thesis Connection**:
+    - This phase provides the experimental data for the Master's Thesis.
+    - Prove that "Recursion" is valid for "Manufacturing" (MBOM) containing "Services" (SBOM) containing "Hardware" (EBOM).
+
+## Phase 3: The Pantheon Engine (Jan 2027 - Apr 2027)
+**Goal**: Generalization & Thesis Defense. **Milestone: Thesis Defense (Jun 2027)**.
+*Associated WBS: WP-07, WP-08, WP-09*
+
+- [ ] **Abstraction Layer**: 
+    - Rename "EBOM/MBOM" to generic terms like "Definition/Instance" or "Class/Object".
+    - Allow users to script custom node behaviors (The "Coding" aspect of the C++ analogy).
+- [ ] **Universal Composability**:
+    - Users can model *Economic Systems*, *Biological Ecosystems*, or *Social Dynamics* using the exact same recursive probability engine.
+
+## Phase 4: Pantheon (The Universal Low-Code Platform) (May 2027 - Jun 2027+)
+**Goal**: The Ultimate Product Launch (Graduation Gift).
+*Associated WBS: WP-10, WP-11*
+
+- [ ] **Visual Programming Interface**: A drag-and-drop IDE where users build "Systems" using our recursive blocks, not code.
+- [ ] **The "Pantheon Store"**: A marketplace of pre-compiled "Process Blocks" (e.g., "Supply Chain Logic", "Network Protocol", "Social Interaction").
+- [ ] **Final Form**: A world where anyone can build industrial-grade logic systems without writing a single line of code, powered by our "Neuro-Symbolic" engine.
+
+---
+
+## Immediate Next Step: "Discrete Node Packaging" Design
+To start Phase 1, we need to design the "Packaging" mechanism.
+
+### Concept: The "Black Box" Compiler
+1. **Selection**: User highlights nodes A, B, C in the 3D graph.
+2. **Definition**: User defines the "Interface" (What signals go in, what signals come out).
+3. **Compilation**: System saves this as a static asset (`.alk` file?).
+4. ** instantiation**: This asset can now be dragged-and-dropped as a single node into any other project.
+
+> *This is equivalent to writing a function in code: You bundle logic, give it a name, and reuse it without rewriting the lines.*

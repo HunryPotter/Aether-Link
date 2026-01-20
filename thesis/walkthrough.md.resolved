@@ -1,0 +1,40 @@
+# Aether Link: Thesis & Algorithm Generation Walkthrough
+
+I have successfully generated the Master's Thesis structure and the foundational "Layered Recursive Calculation" algorithm prototype.
+
+## 1. Thesis Structure ([thesis_structure.md](file:///C:/Users/Administrator/.gemini/antigravity/brain/d5498289-67a1-42ec-bf69-3584095d46a8/thesis_structure.md))
+The document has been created with a focus on:
+- **Neuro-Symbolic Architecture**: Positioning Aether Link as a hybrid of "System 1" (LLM) and "System 2" (Bayesian).
+- **Anti-Entropy**: Defining the system as a "Negentropy Generator" that combats industrial chaos with probabilistic axioms.
+- **Dialectical Philosophy**: Critiquing "blind AI adoption" and proposing a "White Box Logic + Black Box Semantics" solution.
+
+## 2. Algorithm Prototype ([layered_recursive_calculation.py](file:///C:/Users/Administrator/.gemini/antigravity/brain/d5498289-67a1-42ec-bf69-3584095d46a8/layered_recursive_calculation.py))
+I implemented a Python script that demonstrates the core mathematical concepts.
+
+### Key Logic Implemented
+- **Hierarchical Layers**: `EBOM` (Design) -> `MBOM` (Manufacturing) -> `SBOM` (Service).
+- **Negentropy Calculation**: A [calculate_entropy()](file:///C:/Users/Administrator/.gemini/antigravity/brain/d5498289-67a1-42ec-bf69-3584095d46a8/layered_recursive_calculation.py#81-97) function that quantifies the system's disorder.
+- **Bayesian Belief Propagation**: A recursive algorithm to propagate failure probabilities.
+- **Neuro-Symbolic Simulation**: A demo showing how "Hard Facts" (Observations) reduce system entropy and trigger "AI Explanations".
+
+### Verification Results
+I ran the script (`python layered_recursive_calculation.py`) and obtained the following results:
+
+```text
+[Phase 1] 初始状态 (纯理论推演)...
+系统熵值 (System Entropy): 0.3768
+[EBOM] Engine Spec V1 (Belief: 0.0500)
+...
+
+[Phase 2] 注入熵：传感器 S001 报警 (Hard Fact)
+系统熵值 (System Entropy): 0.3037 (由于确定性增加，局部熵应降低...)
+[SBOM] High Vibration (Belief: 1.0000)
+...
+
+[Phase 3] 自动归因解释 (Neuro-Symbolic Explanation)
+>> Aether Linker (AI):
+   检测到 'High Vibration' (P=1.0)。
+   最可能的根因是 'Piston Casting' (Belief=0.0690)。
+```
+
+**Conclusion**: The code successfully demonstrates the "collapse of probability" (Entropy Reduction) when evidence is introduced, validating the core thesis argument.

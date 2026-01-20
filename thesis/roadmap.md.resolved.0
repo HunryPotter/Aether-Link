@@ -1,0 +1,50 @@
+# Aether Link: Technical Evolution Roadmap (2026-2027)
+
+> **Vision**: To evolve Aether Link from a digital twin MVP into a "Universal Abstract Machine" (The "C++ of Systems") — a Turing-complete modeling language capable of composing infinite complexity through recursive node packaging.
+
+## Phase 1: The Crystallization of Process (Current Focus - 2026 Q2)
+**Goal**: Move from discrete, scattered nodes to "Packaged Flows" (Solidifying the Foundation).
+We must enable the system to define "Modules" — stable sub-structures that can be treated as single nodes in higher layers.
+
+- [ ] **Feature: Discrete Node Packaging (Process Encapsulation)**
+    - Ability to select a cluster of nodes (e.g., specific raw materials + machining steps) and "compile" them into a single **Process Block**.
+    - This Process Block exposes strict Inputs/Outputs and Probability Interfaces, hiding internal complexity (Abstraction).
+- [ ] **Algorithm: Local Recursion**
+    - Implement the "Layered Recursive Calculation" within these individual blocks first.
+    - Verify that a Block behaves deterministically based on its internal probabilistic logic.
+- [ ] **Artifact**: `ProcessDefinition.schema` (Standardizing the storage format of a "Flow").
+
+## Phase 2: The Recursive Deepening (2026 Q3 - 2026 Q4)
+**Goal**: Achieve true Multi-Level Recursion (The PhD Foundation).
+Once we have "Blocks", we allow Blocks to contain other Blocks indefinitely.
+
+- [ ] **Feature: Deep Nesting Support**
+    - 3D Visualization of "drilling down" into a node (Zoom-in reveals the internal graph).
+    - System handles N-depth recursion without performance degradation (Quantum Lock optimization).
+- [ ] **Thesis Connection**:
+    - This phase provides the experimental data for the Master's Thesis.
+    - Prove that "Recursion" is valid for "Manufacturing" (MBOM) containing "Services" (SBOM) containing "Hardware" (EBOM).
+
+## Phase 3: The Universal Abstract Machine (2027 Q1 - 2027 Q2)
+**Goal**: The "C++ of Everything" (The PhD Proposal).
+Generalize the engine so it's no longer just about "Industry". It becomes a general-purpose logic solver.
+
+- [ ] **Abstraction Layer**: 
+    - Rename "EBOM/MBOM" to generic terms like "Definition/Instance" or "Class/Object".
+    - Allow users to script custom node behaviors (The "Coding" aspect of the C++ analogy).
+- [ ] **Universal Composability**:
+    - Users can model *Economic Systems*, *Biological Ecosystems*, or *Social Dynamics* using the exact same recursive probability engine.
+- [ ] **Final Output**: A platform ready for a PhD based on "Universal Probabilistic Modeling of Complex Systems".
+
+---
+
+## Immediate Next Step: "Discrete Node Packaging" Design
+To start Phase 1, we need to design the "Packaging" mechanism.
+
+### Concept: The "Black Box" Compiler
+1. **Selection**: User highlights nodes A, B, C in the 3D graph.
+2. **Definition**: User defines the "Interface" (What signals go in, what signals come out).
+3. **Compilation**: System saves this as a static asset (`.alk` file?).
+4. ** instantiation**: This asset can now be dragged-and-dropped as a single node into any other project.
+
+> *This is equivalent to writing a function in code: You bundle logic, give it a name, and reuse it without rewriting the lines.*

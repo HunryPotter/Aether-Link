@@ -1,0 +1,40 @@
+# Thesis & Algorithm Implementation Plan
+
+## Goal
+Generate a Master's thesis structure for "Aether Link" and a foundational code file for the "Layered Recursive Calculation" algorithm, which will serve as a basis for future PhD research.
+
+## User Review Required
+- **Thesis Scope**: Does the structure align with your specific academic focus (e.g., Computer Science, Industrial Engineering, Systems Engineering)? The current draft assumes a Computer Science/Systems Engineering mix.
+- **Algorithm Depth**: The code will be a conceptual prototype (Python) demonstrating the mathematical model of layered Bayesian propagation. Is this sufficient, or do you need integration with the existing TS codebase? (User asked for a "separate code file", implying a standalone algorithmic proof).
+
+## Proposed Artifacts
+
+### 1. Thesis Structure (`thesis_structure.md`)
+A comprehensive outline for a Master's thesis.
+- **Title**: *Aether Link: A Probabilistic Digital Twin Architecture for Multi-Layered Industrial Complexity* (Tentative)
+- **Introduction**: Background, Problem Statement (Static Digital Twins vs. Dynamic Probabilistic Models).
+- **Literature Review**: Digital Twins, Bayesian Networks, Graph Topology, Industrial BOMs.
+- **Theoretical Framework**: The "Aether Link" Theory.
+    - Spacetime Topology (3D Layered Visualization).
+    - Probabilistic Causality (Bayesian Chains).
+    - Cognitive Rendering (LLM Integration).
+- **Core Algorithm**: **Layered Recursive Calculation (LRC)**.
+    - Definition of Layers (Design, Manufacturing, Service).
+    - Recursive Belief Propagation.
+- **Implementation & Case Study**: The Aether Link Platform.
+- **Evaluation**: Performance, Accuracy, Usability.
+- **Conclusion & Future Work**: PhD Roadmap (Advanced LRC, real-time optimization).
+
+### 2. Algorithm Prototype (`layered_recursive_calculation.py`)
+A standalone Python script demonstrating the core "Layered Recursive Calculation" logic.
+- **Classes**: `Node`, `Layer`, `AetherNetwork`.
+- **Logic**:
+    - **Recursive Propagation**: How a change in an EBOM node propagates probability changes to MBOM and SBOM nodes recursively.
+    - **Bayesian Update**: Simplified Bayesian inference function.
+    - **Layered Structure**: Explicit handling of cross-layer connections.
+- **Purpose**: To serve as the mathematical "heart" of the thesis and the foundation for the PhD proposal.
+
+## Verification Plan
+### Manual Verification
+- **Thesis Structure**: User reads `thesis_structure.md` to ensure it covers all necessary academic requirements and project features.
+- **Algorithm**: Run `python layered_recursive_calculation.py` (if user has Python) or review the code logic to ensure it accurately represents the "Layered Recursive Calculation" concept involving multi-layer propagation and feedback loops.

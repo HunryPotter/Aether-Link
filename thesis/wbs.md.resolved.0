@@ -1,0 +1,81 @@
+# Pantheon Project: Feasibility Assessment & Work Breakdown Structure (WBS)
+
+## 1. Feasibility Assessment (可行性评估)
+
+### 1.1 Technical Feasibility (技术可行性)
+*   **Core Challenge**: The "Deep Recursion" of Bayesian belief propagation in a nested graph structure is computationally expensive ($O(N^d)$).
+    *   **Solution**: "Semantic Compression" & "Block Abstraction". By calculating probability at the Block level (Interface only) and hiding internal nodes, we reduce complexity to linear levels per layer. **Verdict: High.**
+*   **Platform Implementation**: Building a "drag-and-drop" IDE for complex logic (The "Low-Code" aspect).
+    *   **Solution**: React Flow + Three.js (already in MVP) is a proven stack for this. The "Compiler" (Node -> Block) is the main engineering hurdle. **Verdict: Medium-High.**
+
+### 1.2 Academic Feasibility (学术可行性)
+*   **Novelty**: The combination of "Entropy Reduction" (Systems Engineering) + "Neuro-Symbolic AI" (CS) is a cutting-edge cross-disciplinary topic.
+*   **Defense Strategy**: The "White Box Axiom" is a perfect defense against current "Black Box AI" criticism.
+*   **Verdict: Very High**. Ideal for a high-impact MEI Master's Thesis and a solid PhD foundation.
+
+---
+
+## 2. Integrated Lifecycle Roadmap (2026-2027)
+
+*   **Now**: Jan 2026
+*   **Milestone 1**: Thesis Proposal (Opening Report) - **Late 2026**
+*   **Milestone 2**: Graduation & Defense - **June 2027**
+
+---
+
+## 3. Detailed Work Breakdown Structure (WBS)
+
+### Phase 1: The Foundation - "Crystallization" (Jan 2026 - Jun 2026)
+> *Goal: Turn the mess of nodes into reusable "Lego Bricks". Establish the MVP for Aether Link work.*
+
+*   **1.1 Data Structure Design (WP-01)**
+    *   1.1.1 Define `ProcessBlock` Schema (Inputs, Outputs, InternalGraph).
+    *   1.1.2 Define `InterfaceProbability` (How a block exposes its health/risk).
+*   **1.2 The "Compiler" Engine (WP-02)**
+    *   1.2.1 Implement "Group Select & Package" UI in SpaceTopologyGraph.
+    *   1.2.2 Implement `serializeBlock()` function to save sub-graphs to JSON.
+    *   1.2.3 Implement `instantiateBlock()` to load a JSON block as a single Node.
+*   **1.3 Interface Standardization (WP-03)**
+    *   1.3.1 Standardize "Signal Ports" (e.g., rigid typing for industrial data flows).
+    *   1.3.2 Implement "Port Mapping" UI (connecting wires between blocks).
+
+### Phase 2: The Core - "Recursion" (Jul 2026 - Dec 2026)
+> *Goal: Prove the mathematical theory. Prepare for the Opening Report (Late 2026).*
+
+*   **2.1 Recursive Algorithm (WP-04)**
+    *   2.1.1 Upgrade `BayesianEngine` to handle nested Block structures.
+    *   2.1.2 Implement "Lazy Loading" (Only calculate internal probability when 'Zoomed In').
+*   **2.2 Entropy Experiments (WP-05)**
+    *   2.2.1 Simulate a 4-layer depth supply chain (Raw Material -> Part -> Module -> Product).
+    *   2.2.2 Measure "System Entropy" changes when a bottom-layer node fails.
+    *   2.2.3 **Deliverable**: Data charts for the Thesis Proposal.
+*   **2.3 Academic Milestone: Opening Report (WP-06)**
+    *   2.3.1 Finalize [thesis_structure.md](file:///C:/Users/Administrator/.gemini/antigravity/brain/d5498289-67a1-42ec-bf69-3584095d46a8/thesis_structure.md).
+    *   2.3.2 Generate "Preliminary Prototype Demo" video.
+
+### Phase 3: The Expansion - "Universality" (Jan 2027 - Apr 2027)
+> *Goal: Generalize the engine for the Thesis Defense. Show "Pantheon" potential.*
+
+*   **3.1 Domain Abstraction (WP-07)**
+    *   3.1.1 Abstract [LayerType](file:///C:/Users/Administrator/.gemini/antigravity/brain/d5498289-67a1-42ec-bf69-3584095d46a8/layered_recursive_calculation.py#14-22) (EBOM/MBOM) into generic `Tags`.
+    *   3.1.2 Demonstrate a "Non-Industrial" case (e.g., Biological Ecosystem or Financial Market model).
+*   **3.2 Thesis Writing (WP-08)**
+    *   3.2.1 Chapter 1-3 (Theory & Lit Review).
+    *   3.2.2 Chapter 4-5 (Methodology & Implementation).
+    *   3.2.3 Chapter 6 (Evaluation & Entropy Analysis - using Phase 2 data).
+*   **3.3 Final Defense Prep (WP-09)**
+    *   3.3.1 Slide deck emphasizing "Neuro-Symbolic" and "Anti-Entropy".
+
+### Phase 4: The Product - "Pantheon" (May 2027 - Jun 2027+)
+> *Goal: Launch the Personal Project/Startup MVP.*
+
+*   **4.1 Visual IDE (WP-10)**
+    *   4.1.1 Drag-and-drop Palette for saved Blocks.
+    *   4.1.2 "Code-Free" Logic Editor (Visual rules configuration).
+*   **4.2 The "Pantheon Store" (WP-11)**
+    *   4.2.1 Repository system for sharing Blocks.
+    *   4.2.2 (Future) Monetization logic for Block creators.
+
+## 4. Immediate Action Plan (Next 2 Weeks)
+1.  **Draft WP-01 (Schema)**: Create `ProcessBlock` TypeScript definitions.
+2.  **Mock WP-02 (UI)**: Design the "Select -> Right Click -> Package" interaction flow.

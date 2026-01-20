@@ -1,0 +1,72 @@
+@import "tailwindcss";
+@variant dark (&:where(.dark, .dark *));
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+  /* Prevent global scroll bars */
+}
+
+/* High-visibility selected state for logical edges (Blue) */
+.react-flow__edge.edge-logical.selected .react-flow__edge-path {
+  stroke: #3b82f6 !important;
+  stroke-width: 3 !important;
+  filter: drop-shadow(0 0 5px rgba(59, 130, 246, 0.8)) !important;
+  opacity: 1 !important;
+}
+
+/* High-visibility selected state for physical edges (Universal) */
+.react-flow__edge.edge-physical.selected .react-flow__edge-path {
+  stroke-width: 3 !important;
+  opacity: 1 !important;
+}
+
+/* Specific selection colors per BOM type to match their base colors */
+.react-flow__edge.edge-physical.EBOM.selected .react-flow__edge-path {
+  filter: drop-shadow(0 0 5px rgba(16, 185, 129, 0.8)) !important;
+}
+
+.react-flow__edge.edge-physical.PBOM.selected .react-flow__edge-path {
+  filter: drop-shadow(0 0 5px rgba(245, 158, 11, 0.8)) !important;
+}
+
+.react-flow__edge.edge-physical.MBOM.selected .react-flow__edge-path {
+  filter: drop-shadow(0 0 5px rgba(59, 130, 246, 0.8)) !important;
+}
+
+.react-flow__edge.edge-physical.SBOM.selected .react-flow__edge-path {
+  filter: drop-shadow(0 0 5px rgba(139, 92, 246, 0.8)) !important;
+}
+
+.react-flow__edge.edge-physical.DBOM.selected .react-flow__edge-path {
+  filter: drop-shadow(0 0 5px rgba(244, 63, 94, 0.8)) !important;
+}
+
+.react-flow__edge.edge-physical.GBOM.selected .react-flow__edge-path {
+  filter: drop-shadow(0 0 5px rgba(6, 182, 212, 0.8)) !important;
+}
+
+.react-flow__edge.edge-physical.BBOM.selected .react-flow__edge-path {
+  filter: drop-shadow(0 0 5px rgba(236, 72, 153, 0.8)) !important;
+}
+
+.react-flow__edge.edge-physical.OBOM.selected .react-flow__edge-path {
+  filter: drop-shadow(0 0 5px rgba(249, 115, 22, 0.8)) !important;
+}
+
+
+/* Animated selected edge (logical only) */
+.react-flow__edge.edge-logical.selected.animated .react-flow__edge-path {
+  stroke-dasharray: 10, 5 !important;
+  animation: react-flow__dashdraw 0.5s linear infinite !important;
+}
+
+/* Selected Node override */
+.react-flow__node.selected>div {
+  box-shadow: 0 0 20px rgba(59, 130, 246, 0.4) !important;
+  border-color: #3b82f6 !important;
+  transform: scale(1.02);
+}

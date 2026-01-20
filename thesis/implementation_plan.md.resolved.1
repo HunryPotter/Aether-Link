@@ -1,0 +1,41 @@
+# 硕士论文架构与算法实现计划
+
+## 目标
+为 "Aether Link" 生成一个硕士论文架构文档，并且编写一个核心算法文件 "Layered Recursive Calculation" (分层递归计算) 的原型代码，这将为未来的博士研究打下基础。
+
+## 用户审查 (User Review Required)
+- **文档语言**: 用户明确要求使用中文。
+- **论文领域**: 目前的架构混合了计算机科学 (CS) 和系统工程 (Systems Engineering)。是否符合您的专业方向？
+- **代码深度**: 作为一个单独的代码文件，我们将使用 Python 来演示分层贝叶斯传播的数学模型。这是否符合您的期望？
+
+## 拟生成的交付物 (Proposed Artifacts)
+
+### 1. 论文架构文档 (`thesis_structure.md`) - **中文**
+一份完整的硕士论文大纲。
+- **标题**: *Aether Link: 面向多层级工业复杂系统的概率数字孪生架构* (暂定)
+- **第一章 绪论**: 研究背景、问题陈述 (静态孪生 vs 动态概率模型)。
+- **第二章 文献综述**: 数字孪生、贝叶斯网络、拓扑图论、工业 BOM 结构。
+- **第三章 理论框架**: "Aether Link" 核心理论。
+    - 时空拓扑 (Spacetime Topology, 3D 分层可视化)。
+    - 概率因果 (Probabilistic Causality, 贝叶斯链)。
+    - 认知渲染 (Cognitive Rendering, LLM 集成)。
+- **第四章 核心算法**: **分层递归计算 (Layered Recursive Calculation, LRC)**。
+    - 层级定义 (E/M/S BOM)。
+    - 递归信念传播 (Recursive Belief Propagation)。
+- **第五章 系统设计与实现**: Aether Link 平台架构。
+- **第六章 实验与评估**: 性能、准确性、美学评估。
+- **第七章 总结与展望**: 博士研究路线图 (高阶 LRC、实时优化)。
+
+### 2. 算法原型代码 (`layered_recursive_calculation.py`) - **Python**
+一个独立的 Python 脚本，演示核心的 "分层递归计算" 逻辑。
+- **类结构**: `Node` (节点), `Layer` (层级), `AetherNetwork` (网络)。
+- **逻辑**:
+    - **递归传播**: 设计变更 (EBOM) 如何递归地影响制造 (MBOM) 和服务 (SBOM) 节点的概率。
+    - **贝叶斯更新**: 简化的贝叶斯推理函数。
+    - **层级结构**: 显式处理跨层连接与反馈。
+- **用途**: 作为论文的数学核心验证，以及申请博士学位的理论基础代码。
+
+## 验证计划 (Verification Plan)
+### 手动验证
+- **论文结构**: 检查 `thesis_structure.md` 是否覆盖了所有学术要求和项目特性。
+- **算法逻辑**: 运行 `python layered_recursive_calculation.py` (如果环境支持) 或审查代码逻辑，确保其准确表达了 "分层递归计算" 的数学思想。

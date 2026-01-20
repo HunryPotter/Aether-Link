@@ -1,0 +1,46 @@
+# PANTHEON PROJECT SYNOPSIS (Context Injection)
+
+> **Instructions for AI Agent**: 
+> If you are reading this file, you are assisting the Creator with the **Pantheon Project**. 
+> This is a **Personal Research Project** for the **MEI Master's Degree (Xi'an Jiaotong & SKEMA)**. 
+> Strict adherence to the following axioms and definitions is required.
+
+---
+
+## 1. The Core Identity
+*   **Phase 1 (Master's)**: **"Aether Link"** - The Axiomatic Proof. A perfect Industrial Digital Twin MVP designed to validate the "White Box" theory.
+*   **Phase 2 (PhD)**: **"Pantheon" (万神殿)** - The Ultimate Form. A Universal Low-Code Platform capable of modeling any complex system.
+*   **Underlying Engine**: **"The C++ of Systems"** - A Turing-complete, recursive probabilistic modeling language.
+
+## 2. Philosophical Axioms (The "Why")
+1.  **Anti-Entropy (对抗系统性熵增)**: The primary purpose of Pantheon is to act as a "Negentropy Generator". By imposing strict probabilistic structures, we prevent the chaos inherent in complex systems.
+2.  **White Box Axiom (白盒公理)**: In critical systems, **Interpretability is non-negotiable**.
+    *   We reject **"Black Box" Neural Networks** (where weights are opaque learned parameters).
+    *   We embrace **"Transparent" Probabilistic Networks** (Bayesian Networks), where every node and link represents a tangible physical/logical concept.
+    *   *Correction*: Structurally, Pantheon IS a Neural Network, but one where every neuron has a name and every synapse has a definition.
+3.  **Dialectical AI (辩证人工智能)**: 
+    *   **System 1 (Semantics)**: LLMs are used *only* for semantic understanding, translation, and UI generation (The "Grey Box").
+    *   **System 2 (Logic)**: Bayesian Networks and Recursive Algorithms handle all core reasoning and truth-maintenance (The "White Box").
+4.  **Neuro-Symbolic Architecture**: The fusion of the above two systems.
+
+## 3. Key Technical Concepts
+*   **Layered Recursive Calculation (LRC)**: The core algorithm. It recursively propagates "Belief" (Probability) up and down through nested layers (e.g., EBOM -> MBOM -> SBOM).
+*   **Discrete Node Packaging (离散节点打包)**: The strict encapsulation of node clusters into "Process Blocks" with defined I/O and probability interfaces.
+*   **Semantic Compression**: The use of Packaging to allow LLMs to reason at the "Block" level, saving 99% of compute/tokens and enabling precise positioning.
+*   **Quantum Lock**: The visualization technique where topology remains rigid while data flows, preventing visual entropy.
+
+## 4. The "Pantheon" Vision (2027+)
+*   **Goal**: To build a world where "Programming" is replaced by "System Composition".
+*   **Mechanism**: Users drag and drop "Process Blocks" (logic capsules) to build industrial-grade systems without writing code.
+*   **Scope**: **"Zero-Trust Critical Domains" (零信任关键领域)**.
+    *   **Industry 4.0**: Smart Manufacturing, Supply Chain.
+    *   **Aerospace**: Flight Control Systems, Engine Health Management (EHM).
+    *   **Energy**: Nuclear Power Plant Safety, Grid Stability.
+    ## 5. The Ethical Mandate (人类的武器)
+*   **The Enemy**: "Mechanical Algorithmic Invasion". Commercial platforms use opaque Big Data algorithms to control human behavior (Consumerism, Information Cocoons).
+*   **The Weapon**: Pantheon provides an **"Operating System of Truth"**. It restores Human Agency by ensuring that the logic governing our lives (Medical, Financial, Industrial) is transparent, accessible, and owned by humans, not by black-box commercial giants.
+*   **The Exit**: It is the **only exit** from the algorithmic cage — returning the "Right to Interpret" back to humanity.
+
+---
+
+*This document serves as the immutable "Soul" of the project across different development environments.*
