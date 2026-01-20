@@ -1,7 +1,13 @@
 {
-  "name": "temp-app",
-  "private": true,
-  "version": "0.0.0",
+  "name": "aether-link",
+  "version": "1.0.0",
+  "description": "Industrial Digital Twin Engine with Bayesian Causal Reasoning",
+  "author": "Aether Link Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HunryPotter/Aether-Link.git"
+  },
   "type": "module",
   "scripts": {
     "dev": "vite",
